@@ -1,0 +1,18 @@
+﻿#####################
+Projects and Packages
+#####################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/projects-and-packages/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

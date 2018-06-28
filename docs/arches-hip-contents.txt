@@ -1,0 +1,18 @@
+﻿############################
+Arches HIP Contents
+############################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/arches-hip-contents/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

@@ -1,0 +1,18 @@
+﻿#################
+Installing Arches
+#################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/installation/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

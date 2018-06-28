@@ -1,0 +1,18 @@
+﻿#######################
+Creating New Map Layers
+#######################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/creating-new-map-layers/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

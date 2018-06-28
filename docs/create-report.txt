@@ -1,0 +1,18 @@
+﻿###############
+Create a Report
+###############
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/create-report/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

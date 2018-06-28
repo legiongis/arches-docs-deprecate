@@ -1,0 +1,18 @@
+﻿####################################
+Add a Function to the Resource Model
+####################################
+
+This documentation is now located here:
+
+https://arches.readthedocs.io/en/stable/add-function/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

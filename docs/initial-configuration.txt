@@ -1,0 +1,18 @@
+﻿####################
+Configuring Settings
+####################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/initial-configuration/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

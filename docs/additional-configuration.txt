@@ -1,0 +1,18 @@
+﻿########################
+Additional Configuration
+########################
+
+This documentation is now located here:
+
+https://arches.readthedocs.io/en/stable/additional-configuration/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

@@ -1,0 +1,18 @@
+﻿######################
+Command Line Reference
+######################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/command-line-reference/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

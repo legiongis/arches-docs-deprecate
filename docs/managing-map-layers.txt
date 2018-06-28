@@ -1,0 +1,18 @@
+﻿###################
+Managing Map Layers
+###################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/managing-map-layers/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

@@ -1,0 +1,18 @@
+﻿############################
+Reference Data Manager (RDM)
+############################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/rdm/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

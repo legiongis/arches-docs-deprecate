@@ -1,0 +1,18 @@
+﻿==================================
+Creating a Development Environment
+==================================
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/creating-a-development-environment/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

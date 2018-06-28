@@ -1,0 +1,18 @@
+#######################
+Arches Documentation
+#######################
+
+Please visit the Arches documentation in its new permanent location:
+
+http://arches.readthedocs.io
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \

@@ -1,0 +1,18 @@
+﻿############################
+Managing Resources in Arches
+############################
+
+This documentation is now located here:
+
+http://arches.readthedocs.io/en/stable/managing-resources/
+
+.. code::
+
+                                                ~  `
+                --   ___   ==¯                   `  `   `  ~`
+                   .`   `.       --¯-                 ` ~       `
+    =  === - -==-- ' --  ' == --__-- --=  == --- == ¯-- = =  _-== -_ -  == -  -
+                   ¯     ¯                   /|\
+                     -¯                     / | \
+                  -                        /  |  \
+                           -              /   |   \
