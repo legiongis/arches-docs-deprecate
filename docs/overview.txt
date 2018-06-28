@@ -1,10 +1,9 @@
-﻿########
+########
 Overview
 ########
+Please visit the Arches documentation in its new permanent location:
 
-This documentation is now located here:
-
-http://arches.readthedocs.io/en/stable/overview/
+http://arches.readthedocs.io/en/3.1.2/overview
 
 .. code::
 

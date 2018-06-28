@@ -1,10 +1,10 @@
-﻿######################
-Command Line Reference
-######################
+#######################
+Arches Web Applications
+#######################
 
-This documentation is now located here:
+Please visit the Arches documentation in its new permanent location:
 
-http://arches.readthedocs.io/en/stable/command-line-reference/
+http://arches.readthedocs.io/en/3.1.2/arches-web-applications
 
 .. code::
 

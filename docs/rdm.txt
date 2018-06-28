@@ -1,10 +1,10 @@
-﻿############################
+############################
 Reference Data Manager (RDM)
 ############################
 
-This documentation is now located here:
+Please visit the Arches documentation in its new permanent location:
 
-http://arches.readthedocs.io/en/stable/rdm/
+http://arches.readthedocs.io/en/3.1.2/rdm
 
 .. code::
 

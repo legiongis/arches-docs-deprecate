@@ -1,10 +1,10 @@
-﻿############################
-Arches Release Process
-############################
+############
+Arches Data
+############
 
-This documentation is now located here:
+Please visit the Arches documentation in its new permanent location:
 
-http://arches.readthedocs.io/en/stable/release-process/
+http://arches.readthedocs.io/en/3.1.2/arches-data
 
 .. code::
 

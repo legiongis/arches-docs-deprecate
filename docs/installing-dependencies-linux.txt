@@ -1,10 +1,9 @@
-﻿###################
-Managing Map Layers
-###################
+Installing Arches Dependencies on Linux (Ubuntu 14.04)
+======================================================
 
-This documentation is now located here:
+Please visit the Arches documentation in its new permanent location:
 
-http://arches.readthedocs.io/en/stable/managing-map-layers/
+http://arches.readthedocs.io/en/3.1.2/installing-dependencies-linux
 
 .. code::
 

@@ -1,10 +1,10 @@
-﻿################################
-Add a Branch to a Resource Model
-################################
+###############
+Getting Started
+###############
 
-This documentation is now located here:
+Please visit the Arches documentation in its new permanent location:
 
-https://arches.readthedocs.io/en/stable/add-branch-to-resource-model/
+http://arches.readthedocs.io/en/3.1.2/getting-started
 
 .. code::
 
